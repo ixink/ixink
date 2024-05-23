@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ixink
+- 👋 Hi, I’m @ixink( Rayhan Ahmed )
 - 👀 I’m interested in Programming, Innovation and Physics.
 - 🌱 I’m currently learning Java and Advanced Python programming language. 
 - 💞️ I’m looking to collaborate on secure info and payment system.
