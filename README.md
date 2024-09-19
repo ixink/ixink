@@ -55,15 +55,7 @@
 <br><br><br>
 <br><br><br>
 
-## PYPI Projects   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/PyPI_logo.svg" height="32px" style="margine-top:10px;">
-<ul style="font-size:30px">
-  <li><a href="https://pypi.org/project/gle-ip-info/"><b><i>gle-ip-info</i></b></a></li>
-  <li><a href="https://pypi.org/project/Treasure-Image/"><b><i>Treasure-Image</i></b></a></li>
-</ul>
-
-<br>
 
 ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-  | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/rayhan-ahmed-uiu/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:rayhan.fea@gmail.com) | [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebooklogo" height="33"/>](https://www.facebook.com/shahrayhan.ahmed.7)
-  |:---:|:---:|:---:|:---:|:---:|:---:|
+  | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/rayhan-ahmed-uiu/) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:rayhan.fea@gmail.com) [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebooklogo" height="33"/>](https://www.facebook.com/shahrayhan.ahmed.7)
