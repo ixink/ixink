@@ -16,7 +16,7 @@
   <li>🖥  #ᗩ_PYTHON_LOVER!</li>
   <li>🤔  𝘐 𝘭𝘰𝘷𝘦 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩  🐍 <b><i>PYTHON</i></b>.</li>
   <li>🌱 I’m currently learning everything 🤣</li>
-  <li>👯 I’m looking to collaborate in ** 🐍 Python Projects **</li>
+  <li>👯 I’m looking to collaborate in 🐍 Python Projects</li>
   <li>🥅 I want to create something new with touch of Physics.</li>
   <li>⚡ Fun fact: I am mining on my brain to recreate the system. 🎨</li>
 </ul>
