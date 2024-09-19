@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    I am an open source 🐍Python-developer, Student 👨‍🎓:. Who <b>obsessed</b> dream big <b>improving</b> to do something for the world <b>learn</b> and 
+    I am an open source 🐍Python-developer, Student 👨‍🎓:. Who <b>dream</b> big to <b>do something good for the world</b> and 
     <b>humankind</b> as much as he can.
   </em>  
 </p>
