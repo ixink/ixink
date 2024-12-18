@@ -60,4 +60,16 @@
 
   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/rayhan-ahmed-uiu/)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:rayhan.fea@gmail.com)  
 
+
+<h2>
+  <a href="https://www.patreon.com/RayhanAhmed" target="_blank" style="text-decoration: underline; color: green;">
+    Get Free Membership Now
+  </a>
+  <a href="https://www.patreon.com/RayhanAhmed" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Patreon_logo.svg" alt="Patreon" height="40" style="vertical-align: middle;">
+</a>
+
+</h2>
+
+
 --------------------------
