@@ -40,12 +40,12 @@
 
 ## 🏃‍♂️ Stats
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <a href="https://github.com/ixink" title="Profile">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=ixink&show_icons=true&theme=dark#gh-dark-mode-only">
   </a>
  </p>
  <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/ixink">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixink&layout=compact&heme=dark#gh-dark-mode-only"/>
   </a>
 </p>
